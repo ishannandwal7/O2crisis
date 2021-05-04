@@ -63,6 +63,8 @@ function About(){
               
 
          <h2>COVID Current statistics (INDIA)</h2>
+		 </div>
+
    <table>
        <tr>
            <td id="confirm">
@@ -120,7 +122,6 @@ function About(){
        </tr>
    </table>
         
-            </div>
             <div className="sec">
            
                 <h1><b>oxygen refillers and manufacturers</b></h1>
