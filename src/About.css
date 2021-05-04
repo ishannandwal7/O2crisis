@@ -21,13 +21,51 @@ tr{
     height: 30px;
 }
 @media screen and (max-width:600px) {
-   table{
-       width: 100%;
-       margin: 0px;
-       padding: 10px 0px 0px 0px;
-   }
+  table{
+      width: 100%;
+      margin: 0px;
+      padding-left: 5px !important;
+      padding-right: 5px !important;
+      padding-bottom: 10px !important;
+  }
+  #confirm{
+    color: green;
+    font-size: 20px;
+}
+#decese{
+    color: red;
+    font-size: 20px;
+
+}
+#active{
+    color: orange;
+    font-size: 20px;
+
+}
+#nc{color: blueviolet;
+    font-size: 20px;
+}
+#nd{color: brown;
+    font-size: 20px;
+}
+#nr{color: cyan;
+    font-size: 20px;
+}
+#tt{color: darkslategrey;
+    font-size: 20px;
+}
+#ir{color: darkolivegreen;
+    font-size: 20px;
+}
+#fr{color: gold;
+    font-size: 20px;
+}
   tr{
      height: 30px;
+  }
+  td{
+      width: auto;
+      margin: 3px !important;
   }
 }
 #cap{
@@ -64,7 +102,6 @@ h5{
 }
 .ab h2{
     text-align: center;
-    padding-bottom: 20px;
 }
 #region{
     padding-top: 20px;
