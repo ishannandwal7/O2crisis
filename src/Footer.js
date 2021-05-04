@@ -17,7 +17,7 @@ function Footer(){
                 <p><a href="https://ishannandwal7.github.io/novelcoronalive.github.io/about.html#">ABOUT ME</a></p>
                 <p><a href="https://ishannandwal7.github.io/novelcoronalive.github.io/">COVID DASHBOARD</a></p>
                 <p><a href="#">HOME</a></p>
-                <p>emergency contact number:<a href="#">9354899158<br/>9899136618</a> </p>
+                <p>emergency contact number:<br/><a href="#">9354899158<br/>9899136618</a> </p>
           
         </div>
         <div className="copyright">
