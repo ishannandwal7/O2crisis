@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/O2crisis/static/css/main.5b5b41bb.chunk.css",
+    "main.js": "/O2crisis/static/js/main.5f311549.chunk.js",
+    "main.js.map": "/O2crisis/static/js/main.5f311549.chunk.js.map",
+    "runtime-main.js": "/O2crisis/static/js/runtime-main.5bfc84c3.js",
+    "runtime-main.js.map": "/O2crisis/static/js/runtime-main.5bfc84c3.js.map",
+    "static/js/2.572fcc6c.chunk.js": "/O2crisis/static/js/2.572fcc6c.chunk.js",
+    "static/js/2.572fcc6c.chunk.js.map": "/O2crisis/static/js/2.572fcc6c.chunk.js.map",
+    "static/js/3.2db96d49.chunk.js": "/O2crisis/static/js/3.2db96d49.chunk.js",
+    "static/js/3.2db96d49.chunk.js.map": "/O2crisis/static/js/3.2db96d49.chunk.js.map",
+    "index.html": "/O2crisis/index.html",
+    "static/css/main.5b5b41bb.chunk.css.map": "/O2crisis/static/css/main.5b5b41bb.chunk.css.map",
+    "static/js/2.572fcc6c.chunk.js.LICENSE.txt": "/O2crisis/static/js/2.572fcc6c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/O2crisis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bfc84c3.js",
+    "static/js/2.572fcc6c.chunk.js",
+    "static/css/main.5b5b41bb.chunk.css",
+    "static/js/main.5f311549.chunk.js"
+  ]
+}
