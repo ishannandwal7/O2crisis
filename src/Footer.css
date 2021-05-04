@@ -1,0 +1,50 @@
+.foott{
+    background-color: black;
+    display: inline-block;
+    width: 100%;
+    text-transform: capitalize;
+}
+.foott a{
+    color: lightseagreen;
+}
+#maill{
+    text-transform: none;
+}
+@media screen and (max-width:600px){
+   .leftt{
+       padding: 10px !important;
+       margin: 0 !important;
+    text-overflow: clip;
+
+   }
+   .rightt{
+       padding: 10px !important;
+       margin: 0px;
+   }
+   .rightt h2{
+       padding-bottom: 10px;
+   }
+   .foott{
+       height: 200px;
+   }
+}
+.leftt{
+    text-overflow: clip;
+    float: left;
+    padding :50px 80px;
+    width: 45%;
+}
+.leftt h2{
+    font-size: 30px;
+    color: white;
+}
+.rightt{ 
+
+   float: right;
+    padding :50px 80px;
+    width: 45%;
+}
+.rightt h2{
+    font-size: 30px;
+    color: white;
+}
